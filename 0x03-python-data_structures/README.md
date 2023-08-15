@@ -1,0 +1,1 @@
+This project aims to provide a comprehensive understanding of data structures in Python and how they can be utilized to enhance code efficiency and readability. By working through this project, you will gain valuable experience in implementing and using fundamental data structures, such as lists, tuples, sets, and dictionaries.
