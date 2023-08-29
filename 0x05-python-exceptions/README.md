@@ -1,0 +1,1 @@
+0x05-python-exceptions is a Python project that demonstrates the use of exceptions in Python. It contains code samples and explanations of how to handle various types of exceptions, including runtime errors, user-defined exceptions, and others. It also covers topics such as try-except blocks, raise statements, and error handling best practices.
