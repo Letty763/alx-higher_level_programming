@@ -1,0 +1,1 @@
+This project focuses on the fundamentals of object-oriented programming in Python. Here, you'll explore the concept of classes, objects, attributes, methods, and how they all come together to create organized and efficient code.
