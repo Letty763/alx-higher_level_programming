@@ -1,0 +1,1 @@
+This project is designed to help you understand Python's object-oriented programming (OOP) features and how everything, from simple variables to complex data structures, is treated as an object. Whether you're a beginner or an experienced Python developer, this project will provide insights into Python's object model and how it differs from other programming languages.
