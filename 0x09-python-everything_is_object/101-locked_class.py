@@ -1,15 +1,10 @@
-#!/usr/bin/python3
-"""
-
-This is a module that containts a clas that avoids
-dynmaically created attributes
-
-"""
+!/usr/bin/python3
+""" Define a locked class"""
 
 
 class LockedClass:
-    __slots__ = ['first_name']
+    """
+    allows instatiation of an attribute  first_name only
+    """
 
-    def __init__(self):
-        """ Init method """
-        pass
+    __slots__ = ["first_name"]
