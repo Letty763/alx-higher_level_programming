@@ -1,10 +1,7 @@
-!/usr/bin/python3
-""" Define a locked class"""
+#!/usr/bin/python3
+"""locked class with no class or object attribute"""
 
 
 class LockedClass:
-    """
-    allows instatiation of an attribute  first_name only
-    """
-
-    __slots__ = ["first_name"]
+    """Locked class"""
+    __slots__ = ['first_name']
