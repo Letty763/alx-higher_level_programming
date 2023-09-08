@@ -1,0 +1,1 @@
+In this project, we practice and demonstrate the principles of Test-Driven Development (TDD) in Python. TDD is a software development process that emphasizes writing tests before writing the actual code. This approach helps ensure that the code is both functional and robust, making it a valuable practice for software development
