@@ -1,0 +1,1 @@
+This project, 0x0B Python Input/Output, is a part of the Holberton School curriculum and focuses on various aspects of input and output in Python. It covers file handling, reading and writing to files, working with JSON data, and more.
