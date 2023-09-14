@@ -1,0 +1,1 @@
+This project explores the concept of inheritance in Python, a powerful object-oriented programming feature that allows you to create new classes that are based on existing classes. Inheritance enables code reuse and the creation of a hierarchy of classes, making it an essential aspect of Python's object-oriented paradigm.
