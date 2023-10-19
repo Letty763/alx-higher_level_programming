@@ -1,0 +1,1 @@
+0x0E-SQL_more_queries is a project that focuses on expanding your SQL knowledge. It contains SQL queries and scripts to help you practice advanced SQL concepts, including JOINs, subqueries, and various other SQL operations.
