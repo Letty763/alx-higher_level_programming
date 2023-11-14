@@ -1,0 +1,1 @@
+This project focuses on JavaScript, exploring concepts related to objects, scopes, and closures. The exercises and tasks within this repository aim to enhance your understanding of these fundamental aspects of JavaScript programming.
