@@ -1,0 +1,1 @@
+This project, named "0x0F Python Object-Relational Mapping," focuses on exploring and implementing Object-Relational Mapping (ORM) in Python. ORM is a powerful concept that bridges the gap between the object-oriented world of Python and relational databases
