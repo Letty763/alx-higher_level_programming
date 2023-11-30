@@ -1,0 +1,1 @@
+This project focuses on networking concepts and their implementation in Python. From making HTTP requests to handling responses, the code in this repository serves as a foundation for understanding network operations using Python.
